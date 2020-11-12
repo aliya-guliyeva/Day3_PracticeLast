@@ -7,6 +7,8 @@ public class Main {
 
         System.out.println("HelloGit Last Day");
 
+        System.out.println("Last");
+
 
 
 
